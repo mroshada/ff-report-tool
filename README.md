@@ -33,7 +33,7 @@ def banner():
     #          FREE FIRE ID REPORT TOOL             #
     #################################################
     """)
-    print(Fore.YELLOW + "       Created by: Gemini AI Collaborator")
+    print(Fore.YELLOW + "       Created by: Gemini ai mr -oshada Collaborator")
     print(Fore.CYAN + "-------------------------------------------------")
 
 def get_player_name(player_id):
